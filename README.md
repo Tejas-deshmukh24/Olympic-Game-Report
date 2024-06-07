@@ -1,1 +1,2 @@
 # Olympic-Game-Report
+Project analysis provides a comprehensive overview of the history and evolution of the Olympic Games,as well as valuable insights into athlete performance and sport-level trends. The use of Ms-Excel and Power BI allowed for efficient data transformation and visualization, and these findings can be used to inform future Olympic planning and strategy, as well as inspire athletes and fans around the world.
